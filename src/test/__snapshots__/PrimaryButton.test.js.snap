@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checking Primary Button 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": undefined,
+      "borderRadius": 12,
+      "height": 54,
+      "justifyContent": "center",
+      "marginEnd": 20,
+      "marginStart": 44,
+      "marginTop": 24,
+      "opacity": 1,
+      "padding": 10,
+      "width": 350,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#ffffff",
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  />
+</View>
+`;
